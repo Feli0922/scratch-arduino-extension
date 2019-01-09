@@ -1083,6 +1083,16 @@
       servos: ['servo A', 'servo B', 'servo C', 'servo D']
     },
     zh: {
+      buttons: ['按钮A', '按钮B', '按钮C', '按钮D'],
+      btnStates: ['按下', '放开'],
+      hwIn: ['旋钮', '光线传感器', '温度传感器'],
+      hwOut: ['LED灯A', 'LED灯B', 'LED灯C', 'LED灯D', '按钮A', '按钮B', '按钮C', '按钮D', '伺服马达A', '伺服马达B', '伺服马达C', '伺服马达D'],
+      leds: ['LED灯A', 'LED灯B', 'LED灯C', 'LED灯D'],
+      outputs: ['高', '低'],
+      ops: ['>', '=', '<'],
+      servos: ['伺服马达A', '伺服马达B', '伺服马达C', '伺服马达D']
+    },
+    zh: {
       buttons: ['按鈕 A', '按鈕 B', '按鈕 C', '按鈕 D'],
       btnStates: ['按下', '放開'],
       hwIn: ['旋鈕', '光感應器', '溫度感應器'],
